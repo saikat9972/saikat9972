@@ -18,7 +18,7 @@ Hi there, I'm Saikat — a final year undergrad at National Institute of Technol
 - HTML5
 - CSS3
 - JavaScript
-###Utilities
+### Utilities
 - SQL
 - Git VCS
 - cmd
