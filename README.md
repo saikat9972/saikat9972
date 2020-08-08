@@ -8,7 +8,7 @@ Hi there, I'm Saikat — a final year undergrad at National Institute of Technol
 
 ## 🌱 I’m currently learning
   - Web Development
-  - Advanced Data Strctures
+  - Advanced Data Structures
   
 ## 👯 Technical Skills
 ### Programming
